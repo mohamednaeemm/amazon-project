@@ -89,11 +89,3 @@ bussinessCart.loadFromStorage();
 console.log(cart);
 console.log(bussinessCart);
 
-
- 
-
-
-
-
-
-
