@@ -1,4 +1,5 @@
 # Amazon Clone
+[Live Demo](https://amazon-project-mohamednaeemms-projects.vercel.app/)
 
 Welcome to the **Amazon Clone** project! This is a fully responsive e-commerce website created to practice and demonstrate modern web development skills, including **HTML**, **CSS**, **API integration**, **async/await** for asynchronous operations, and **Object-Oriented Programming (OOP)** principles. This clone mimics key functionalities of an e-commerce platform like Amazon.
 
